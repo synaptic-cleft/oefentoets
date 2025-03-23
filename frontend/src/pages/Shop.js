@@ -11,7 +11,7 @@ const catMenu = [
   { id: 5, name: "Charlie", price: 130, image: require("../assets/5.png"), url: "http://oefentoets-frontend-1:8001/5.html" },
   { id: 6, name: "Knipoog", price: 180, image: require("../assets/6.png"), url: "http://oefentoets-frontend-1:8001/6.html" },
   { id: 7, name: "Script Kitten", price: 170, image: require("../assets/7.png"), url: "http://oefentoets-frontend-1:8001/7.html" },
-  { id: 8, name: "Je moeder", price: 160, image: require("../assets/8.png"), url: "http://oefentoets-frontend-1:8001/.html" }
+  { id: 8, name: "DIY kat", price: 160, image: require("../assets/8.png"), url: "http://oefentoets-frontend-1:8001/.html" }
 ];
 
 function Shop() {
